@@ -1,2 +1,4 @@
-# Labyrinth_Game
-This is a game developed in Unity as part of an academic project for the "Game Programming" course undertaken during my Bachelors degree in Software Engineering. The code was written using C# and all assets used are Free to Use.
+# LabyrinthGame
+A 3D maze puzzle solving game made with Unity. Contains multiple levels, each more daunting than the last.
+
+To run the game, open the executable setup file "labyrinth.exe". 
